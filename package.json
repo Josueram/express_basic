@@ -1,0 +1,26 @@
+{
+  "name": "express_basic",
+  "version": "1.0.0",
+  "description": "My first server with Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josueram/express_basic.git"
+  },
+  "keywords": [
+    "Express",
+    "NodeJS"
+  ],
+  "author": "Josué Ramírez <josueramirez0110@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josueram/express_basic/issues"
+  },
+  "homepage": "https://github.com/Josueram/express_basic#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
